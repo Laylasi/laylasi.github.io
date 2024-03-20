@@ -1,0 +1,29 @@
+.menubar {
+    overflow: hidden;
+    background-color: #f0d8d8;
+  }
+  
+  .menubar {
+    overflow: hidden;
+    background-color: #4a7553;
+  }
+  
+  .menubar a {
+    float: center;
+    color: #ffffff;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .menubar a:hover {
+    background-color: #ffffff;
+    color: #4a7553;
+  }
+  
+  .menubar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
